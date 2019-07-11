@@ -71,6 +71,7 @@ ZSH_THEME="pygmalion-virtualenv"
 plugins=(
   git
   zsh-syntax-highlighting
+  virtualenv
 )
 
 source $ZSH/oh-my-zsh.sh
